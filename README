@@ -1,0 +1,6 @@
+Proyecto que muestra las propiedades básicas del componente Checkbox en Android.
+
+- Declaración de un Checkbox en XML y propiedades básicas.
+- Uso de los listeners del componente Checkbox.
+
+Ver tutorial: http://androideity.com/2011/07/12/widgets-basicos-en-android-iv-check-box/
